@@ -1,0 +1,165 @@
+body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.bottom-container{
+    background-color: #85586F;
+    padding-top: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+}
+.proimg , .skillimg1, .skillimg2{
+    width: 10em;
+    padding-top: 2em;
+}
+
+.skillimg1{
+    float: left;
+    padding-right: 3em;
+}
+
+.skillimg2{
+    float: right;
+    padding-left: 3em;
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    font-size: 4em;
+}
+
+h2{
+    font-family: 'Caveat', cursive;
+    font-size: 3em;
+}
+
+h3{
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+}
+
+a{
+    font-family: 'Poppins', sans-serif;
+}
+
+#top {
+    margin: 0 auto;
+    width:fit-content;
+    padding-bottom: 20px;
+}
+
+#top-p{
+    margin: 0 auto;
+    width:fit-content;
+    padding-bottom: 20px;
+}
+
+.top-container{
+    position: relative;
+    background-color: #DEB6AB;
+    padding: auto auto 0 auto;
+}
+
+hr {
+    border-style: dotted;
+    border-top: 0;
+    border-width: 18px;
+    width: 8%;
+    margin: 0 auto 0px auto;
+    padding: 0 auto 0px auto;
+    position: relative;
+    top: 10px;
+    opacity: 50%;
+    color: #85586F;
+}
+
+.first{
+    background-color: #F8ECD1;
+}
+
+.two{
+    background-color: #DEB6AB; 
+}
+.profile{
+    background-color: #F8ECD1;
+    margin-bottom: 0;
+    padding-top: 4em;
+    padding-bottom: 50px;
+}
+
+#hrempty{
+    opacity: 0;
+    height: 60px;
+}
+
+
+.skills{
+    background-color: #DEB6AB;
+    margin: 0 auto 0 auto;
+    padding-top: 1px;
+    padding-bottom: 40px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.skill-row{
+    text-align: left;
+}
+
+.contact-me{
+    background-color: #F8ECD1;
+    margin: 0 auto 0px auto;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.top-cloud{
+    position: relative;
+    left: 220px;
+    padding-top: 45px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+}
+
+.mountain{
+    padding-top: 30px;
+    margin: auto auto -4px auto;
+}
+
+.btn{
+    border-radius: 5px;
+    background-color: #85586F;
+    padding: 10px 20px 10px 20px;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+#bellowhello{
+    padding: 0 2em 0 2em;
+}
+
+.footer-link{
+    text-decoration: none;
+    font-size: 20px;
+    color:aliceblue;
+    text-shadow: black 0 1px;
+}
+
+.footer-link-text{
+    font-size: 18px;
+}
